@@ -1,0 +1,5 @@
+@use '../utilities/mixins';
+
+@include mixins.font-face("Barlow", "../../assets/fonts/barlow-600.woff2", normal, 600);
+@include mixins.font-face("Fraunces", "../../assets/fonts/Fraunces-700.woff2", normal, 700);
+@include mixins.font-face("Fraunces", "../../assets/fonts/Fraunces-900.woff2", normal, 900);
